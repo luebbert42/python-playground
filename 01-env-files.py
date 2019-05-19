@@ -1,9 +1,9 @@
 from dotenv import load_dotenv
 from pathlib import Path
 import os
-from lib import calc
-from lib.user import User
 
+from lib.math import calc
+from app.entities.user import User
 
 # Read .env file 
 load_dotenv(verbose=True)

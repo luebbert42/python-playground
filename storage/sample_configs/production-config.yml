@@ -1,0 +1,3 @@
+properties:
+  templateFile: Something different on prod
+  somethingElse: Else

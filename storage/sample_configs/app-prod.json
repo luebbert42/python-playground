@@ -1,0 +1,15 @@
+{
+	"properties": {
+		"templateFile": "Something different on prod",
+		"description": "Lorem Ipsum",
+		"modifiedAt": 1535625720121,
+		"templateId": "",
+		"id": "mdu-kommunen_4x",
+		"title": "myTitle",
+		"createdAt": 1525689398533,
+		"modifiedBy": "Reinhold.Markus",
+		"editorState": "PUBLISHED",
+		"createdBy": "Hans",
+		"thumbnailFile": "thumbnail.png"
+	}
+}
